@@ -1,0 +1,18 @@
+ul {
+list-style-type: none;
+float: right;
+background-color: seagreen;
+padding: 20px;
+}
+li {
+font-size: 16px;    
+display: inline-block;
+margin-right:10px;
+}
+a{
+    text-decoration: none;
+    color: greenyellow;
+}
+a:hover{
+    color:#FF7300;
+}
